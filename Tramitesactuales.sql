@@ -42,3 +42,15 @@ inner join sgd.UsuarioArea uaO on uaO.id=uapO.idUsuarioArea
 inner join sgd.Area aO on aO.id=uaO.idArea
 inner join sgd.Usuario uO on uO.id=uaO.idUsuario
  where m.tipoBandeja='REC' and m.estado='ACT' and m.tipoDestino='GRP';
+
+
+
+-------------------------------------------------------------------------CONSULTAS ADICIONALES ----------------------------------------------------------------
+/* Para consultar el idArea desde el Nombre*/
+
+Select * from sgd.area where nombre='Dirección General'
+
+/*Para saber las areas hijas de un área padre*/
+
+Select * from sgd.area where idAreaPadre=12
+
