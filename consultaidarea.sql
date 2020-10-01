@@ -60,6 +60,8 @@ DG-AS 1
 Coactivas
 '%Jorge.valarezo%'     844
 '%Betty.aular%'        843
+'%Ines.mogrovejo%'     6612
+
 
 DirecciónGeneral
 '%Pedro.crespo%'      5466
