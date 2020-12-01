@@ -18,6 +18,7 @@ DG-AS 4
 '%Daniela.merino%'    4925
 '%Wilson.travez%'     5217
 '%Erick.vallejo%'     6207
+                      9354
 '%Jorge.valarezo%'    4895
 '%ivan.solis%'        4926
 '%Andrea.cabrera%'    4900
